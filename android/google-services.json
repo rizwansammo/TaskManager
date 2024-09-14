@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322121236941",
+    "project_id": "excellence-bangladesh-employee",
+    "storage_bucket": "excellence-bangladesh-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322121236941:android:fbc0d8b5594ee883e04484",
+        "android_client_info": {
+          "package_name": "com.eb.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkM7qWYJREmzjh3sRaiRbbKN0Eh4DE4EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
